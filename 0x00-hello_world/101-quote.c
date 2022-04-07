@@ -1,5 +1,4 @@
-#!/bin/bash
-[A[3~[3~[C[C[C[C[C[C[C#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
