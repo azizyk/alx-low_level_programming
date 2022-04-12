@@ -5,10 +5,10 @@
  */
 int main(void)
 {
-	char c[] = "_Putchar";
+	char c[7] = "_Putchar";
 	int i;
 
-	for (i = 0; i < 7; i++)
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(c[i]);
 	}
