@@ -1,17 +1,19 @@
 #include "main.h"
-/**
- * print_last_digit - prints the last digit of a number.
- * @n: digit to find the last place of.
- * Return: The last digit.
- */
 
+/**
+ * print_last_digit - Prints the last digit of a number.
+ * @n: The number in question.
+ *
+ * Return: Value of the last digit.
+ */
 int print_last_digit(int n)
 {
+	int last_digit = n % 10;
 
-n = n >= 0 ? n : n * -1;
-int last = n % 10;
-_putchar('0' + last);
+	if (last_digit < 0)
+		last_digit *= -1;
 
-return (last);
+	_putchar(last_digit + '0');
 
+	return (last_digit);
 }
