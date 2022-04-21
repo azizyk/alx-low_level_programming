@@ -1,10 +1,10 @@
 # 0x05. C - More pointers, arrays and strings
----
+
 ## About
----
+
 A follow-up project on pointers.
 ## Requirements
----
+
 - compiled on Ubuntu 20.04 LTS using gcc
 - No standard library functions
 - Not allowed to use global variables
@@ -12,7 +12,7 @@ A follow-up project on pointers.
 - allowed to use _putchar
 
 ## File Descriptions
----
+
 **Mandatory Tasks** 
 
 <0-strcat.c> - a function that concatenates two strings.
