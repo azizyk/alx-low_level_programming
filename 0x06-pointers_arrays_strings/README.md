@@ -30,7 +30,6 @@ A follow-up project on pointers.
 <6-cap_string.c> - a function that capitalizes all words of a string.
 
 <7-leet.c> -  a function that encodes a string into 1337.
----
 
 **Advanced Tasks**
 
