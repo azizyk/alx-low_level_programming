@@ -1,4 +1,4 @@
-#0x07-pointers_arrays_strings
+# 0x07-pointers_arrays_strings
 
 ## About 
 A follow_-up project on pointers.
@@ -23,4 +23,5 @@ A follow_-up project on pointers.
 - 8-print_diagsums.c - a function that prints the sum of the two diagonals of a square matrix of integers.
 
 **Advanced Tasks**
-
+- 100-set_string.c -  a function that sets the value of a pointer to a char.
+- 101-crackme_password - Create a file that contains the password for the crackme2 executable.
