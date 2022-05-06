@@ -19,4 +19,6 @@ Memory allocation (malloc), Free
 - 3-array_range.c:- a function that creates an array of integers.
 
 **Advanced Tasks**
+- 100-realloc.c:- a function that reallocates a memory block using malloc and free
+- 101-mul.c:- a function that reallocates a memory block using malloc and free
 
