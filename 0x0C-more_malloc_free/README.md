@@ -1,8 +1,8 @@
-#0x0C. C - More malloc, free
-##About
+# 0x0C. C - More malloc, free
+## About
 Memory allocation (malloc), Free
 
-##Requirements
+## Requirements
 
 - Compiled on Ubuntu 20.04 LTS using gcc
 - Allowed to use standard library functions
@@ -10,7 +10,7 @@ Memory allocation (malloc), Free
 - Allowed to use _putchar
 - Code should use the Betty style.
 
-##File Description
+## File Description
 
 **Mandatory Tasks**
 - 0-malloc_checked.c:- a function that allocates memory using malloc.
