@@ -19,3 +19,4 @@
 - 3-op_functions.c:- The file contains the following 5 funtions.
 
 **Advanced Tasks**
+- 100-main_opcodes.c:- a program that prints the opcodes of its own main function.
