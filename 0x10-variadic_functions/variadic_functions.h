@@ -1,7 +1,13 @@
 #ifndef _VARIADIC_FUNCTIONS_H_
 #define _VARIADIC_FUNCTIONS_H_
-
 #include <stdarg.h>
+
+struct type
+{
+char *character;
+void (*printf)(va_list);
+};
+typedef struct type variable_type;
 
 int _putchar(char);
 int sum_them_all(const unsigned int n, ...);
