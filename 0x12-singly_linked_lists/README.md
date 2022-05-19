@@ -24,3 +24,7 @@
 
 **Advanced**
 
+- 100-first.c - function that executes before the main function.
+
+- 101-hello_holberton.asm - assembly that prints Hello, Holberton, followed by a new line.
+
